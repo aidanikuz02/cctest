@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!30 &1
+GraphicsSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 15
+  m_Deferred:
+    m_Mode: 1
+    m_Shader: {fileID: 69, guid: 0000000000000000f000000000000000, type: 0}
+  m_DeferredReflections:
+    m_Mode: 1
+    m_Shader: {fileID: 74, guid: 0000000000000000f000000000000000, type: 0}
+  m_ScreenSpaceShadows:
+    m_Mode: 1
+    m_Shader: {fileID: 64, guid: 0000000000000000f000000000000000, type: 0}
+  m_DepthNormals:
+    m_Mode: 1
+    m_Shader: {fileID: 62, guid: 0000000000000000f000000000000000, type: 0}
+  m_MotionVectors:
+    m_Mode: 1
+    m_Shader: {fileID: 75, guid: 0000000000000000f000000000000000, type: 0}
+  m_LightHalo:
+    m_Mode: 1
+    m_Shader: {fileID: 105, guid: 0000000000000000f000000000000000, type: 0}
+  m_LensFlare:
+    m_Mode: 1
+    m_Shader: {fileID: 102, guid: 0000000000000000f000000000000000, type: 0}
+  m_VideoShadersIncludeMode: 2
+  m_AlwaysIncludedShaders:
+  - {fileID: 7, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15104, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15105, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 15106, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 10783, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: 5cd67e0f85de2cb40895605b97af034c, type: 3}
+  - {fileID: 4800000, guid: f26b1482dac886044a58d252a5057d07, type: 3}
+  - {fileID: 4800000, guid: 86c5edb1d2ba9204186004b7d23e5eaa, type: 3}
+  - {fileID: 4800000, guid: 8045a14841aaf474b8518afd1321dfcf, type: 3}
+  - {fileID: 4800000, guid: 7dd88ca6038af8444aa5cb761257b245, type: 3}
+  - {fileID: 4800000, guid: 42a103dfa1d951044b6c1af2ad64bb0e, type: 3}
+  - {fileID: 4800000, guid: 747654c9d3b42344d92437d9bf68f2fa, type: 3}
+  - {fileID: 4800000, guid: 37ab35dcbd0521f4eb67053a8c6f3075, type: 3}
+  - {fileID: 4800000, guid: 8380ecb3ee9422440a46ee8bd7f9a8a3, type: 3}
+  - {fileID: 4800000, guid: 5cd67e0f85de2cb40895605b97af034c, type: 3}
+  - {fileID: 4800000, guid: b80012604b1001b42a62ae34ea0a000e, type: 3}
+  - {fileID: 4800000, guid: 42a103dfa1d951044b6c1af2ad64bb0e, type: 3}
+  - {fileID: 4800000, guid: 0b3e2e1acb8d52845b19965f05c6fed2, type: 3}
+  - {fileID: 4800000, guid: 58624eceda023a84ebe502bfa9828a38, type: 3}
+  - {fileID: 4800000, guid: 6ddc7f4de8e686c43bf5cf55e596847c, type: 3}
+  - {fileID: 4800000, guid: 414aae4851b6fe947b31b8f419c544ea, type: 3}
+  - {fileID: 4800000, guid: f9bb6e7433bd469458ebfa54a3a469ec, type: 3}
+  - {fileID: 4800000, guid: 8e03c6787db52a24485221515d38a091, type: 3}
+  - {fileID: 4800000, guid: 42a103dfa1d951044b6c1af2ad64bb0e, type: 3}
+  - {fileID: 4800000, guid: 605d4706799e5234aa95f2bbb9027002, type: 3}
+  - {fileID: 4800000, guid: 877bac9451bddcf4cb79d715b1570bee, type: 3}
+  - {fileID: 4800000, guid: cd5a748d2fb7c36448fea862b9d164b8, type: 3}
+  - {fileID: 4800000, guid: 113547370d3102549bd73619d83c36eb, type: 3}
+  - {fileID: 4800000, guid: 79b2e6f427a9ccd40a9cc8c9decdba2f, type: 3}
+  m_PreloadedShaders: []
+  m_PreloadShadersBatchTimeLimit: -1
+  m_SpritesDefaultMaterial: {fileID: 10754, guid: 0000000000000000f000000000000000,
+    type: 0}
+  m_CustomRenderPipeline: {fileID: 11400000, guid: 7b7fd9122c28c4d15b667c7040e3b3fd,
+    type: 2}
+  m_TransparencySortMode: 0
+  m_TransparencySortAxis: {x: 0, y: 0, z: 1}
+  m_DefaultRenderingPath: 1
+  m_DefaultMobileRenderingPath: 1
+  m_TierSettings: []
+  m_LightmapStripping: 0
+  m_FogStripping: 0
+  m_InstancingStripping: 0
+  m_BrgStripping: 0
+  m_LightmapKeepPlain: 1
+  m_LightmapKeepDirCombined: 1
+  m_LightmapKeepDynamicPlain: 1
+  m_LightmapKeepDynamicDirCombined: 1
+  m_LightmapKeepShadowMask: 1
+  m_LightmapKeepSubtractive: 1
+  m_FogKeepLinear: 1
+  m_FogKeepExp: 1
+  m_FogKeepExp2: 1
+  m_AlbedoSwatchInfos: []
+  m_LightsUseLinearIntensity: 0
+  m_LightsUseColorTemperature: 1
+  m_DefaultRenderingLayerMask: 1
+  m_LogWhenShaderIsCompiled: 0
+  m_SRPDefaultSettings:
+    UnityEngine.Rendering.Universal.UniversalRenderPipeline: {fileID: 11400000, guid: 18dc0cd2c080841dea60987a38ce93fa,
+      type: 2}
+  m_LightProbeOutsideHullStrategy: 0
+  m_CameraRelativeLightCulling: 0
+  m_CameraRelativeShadowCulling: 0
